@@ -20,7 +20,7 @@ h1 {
 .main-header {
 	padding-top: 170px;
 	height: 800px;
-    background: linear-gradient(#000, transparent 95%), linear-gradient(0deg, #fff, transparent 100%), url('../daft.jpg') no-repeat center;
+    background: linear-gradient(#000, transparent 95%), linear-gradient(0deg, #fff, transparent 100%), url('../img/daft.jpg') no-repeat center;
 }
 
 div {
