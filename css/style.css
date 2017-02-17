@@ -101,8 +101,8 @@ PAGE: About
 .profile-photo {
   display: block;
   max-width: 150px;
-  margin: 0 auto 30px;
   border-radius: 0%; /* makes my picture a circle if I make it 100% */
+  border: 2px solid black
 }
 
 
