@@ -1,4 +1,7 @@
-@media screen and (min-width: 480px) {
+
+
+
+@media screen and (min-width: 300px) {
 	/*************************
 	TWO COLUMN LAYOUT
 	*************************/
@@ -36,7 +39,7 @@
 	}
 }
 
-@media screen and (min-width: 660px) {
+@media screen and (min-width: 672px) {
 
 	/*************************
 	HEADER
